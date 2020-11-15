@@ -1,11 +1,11 @@
 # ParKKing
 Este proyecto hecho en Javascript simula por consola las gestiones que se realizarían en un parking robotizado de 45 plazas donde 15 son para Turismos, 15 para Motocicletas y otras 15 para Caravanas.
 
-##Estructuración
+## Estructuración
 El proyecto está dividido en dos carpetas: Modelo y Vista.
 En la carpeta Modelo se encuentran todos los archivos js que se encargan de la creación de clases, mientras que en la carpeta Vista está el archivo main cuyo objetivo es ejecutar todos los métodos necesarios para el funcionamiento del programa, así como la creación de las variables correspondientes para la inicialización del mismo.
 
-##Pre-requisitos
+## Pre-requisitos
 Es un proyecto desarrollado en Javascript mediante [VisualStudioCode](https://code.visualstudio.com/download) pero debido al uso de librerías como `readlineSync.js` o `moment.js` se recomienda instalar la última versión de _Node.js_ para ponerlo en marcha en su interfaz ya que puede que algunos navegadores tengan problemas para reproducirlo. Posiblemente debas instalar las anteriores librerías para que este funcione correctamente además de la librería `@types`. Aquí te dejo los comandos que necesitas para instalarlas:
 
 ```
@@ -21,7 +21,7 @@ Aquí tienes un enlace para descargar Node.js desde su página oficial. Con la �
 
 _La opción `--save` indica a NPM que incluya automáticamente el paquete dentro de la sección de dependencies de su package.son_
 
-##Iniciar el proyecto
+## Iniciar el proyecto
 Una vez has instalado todo lo necesario para visualizar este proyecto de consola correctamente puedes, mediante Node.js, ejecutar el archivo _dom.js_ para visualizar el proyecto. (Este archivo contiene todas las partes mencionadas anteriormente en un solo archivo lo que suma rapidez a la ejecución del mismo y permite ejecutarse sin necesidad de añadir líneas de código extra ni tener que mirar que hace el código).
 
 ##Funcionalidades
@@ -38,5 +38,5 @@ Como **Usuario** puedes:
 Como **Administrador** puedes:
 * Comprobar el estado del parking viendo cuantos vehículos de cada tipo hay almacenados
 
-##Autor
+## Autor
 [Francisco Javier Mateos Guillén](www.linkedin.com/in/fcojaviermateosguillen)
