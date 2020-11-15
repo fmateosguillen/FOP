@@ -24,7 +24,7 @@ _La opción `--save` indica a NPM que incluya automáticamente el paquete dentro
 ## Iniciar el proyecto
 Una vez has instalado todo lo necesario para visualizar este proyecto de consola correctamente puedes, mediante Node.js, ejecutar el archivo _dom.js_ para visualizar el proyecto. (Este archivo contiene todas las partes mencionadas anteriormente en un solo archivo lo que suma rapidez a la ejecución del mismo y permite ejecutarse sin necesidad de añadir líneas de código extra ni tener que mirar que hace el código).
 
-##Funcionalidades
+## Funcionalidades
 Con este programa puedes:
 
 * Iniciar sesión como Usuario
