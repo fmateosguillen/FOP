@@ -17,7 +17,7 @@ Es un proyecto desarrollado en Javascript mediante [VisualStudioCode](https://co
 ```
 > npm i @types/node
 ```
-_La opción `--save` indica a NPM que incluya automáticamente el paquete dentro de la sección de dependencies de su package.son_
+_La opción `--save` indica a NPM que incluya automáticamente el paquete dentro de la sección de_ `dependencies` _de su package.son_
 
 Aquí tienes un enlace para descargar Node.js desde su página oficial. Con la última versión LTS será más que suficiente --> [Instalar Node](https://nodejs.org/es/download/)
 
