@@ -17,9 +17,9 @@ Es un proyecto desarrollado en Javascript mediante [VisualStudioCode](https://co
 ```
 > npm i @types/node
 ```
-Aquí tienes un enlace para descargar Node.js desde su página oficial. Con la última versión LTS será más que suficiente --> [Instalar Node](https://nodejs.org/es/download/)
-
 _La opción `--save` indica a NPM que incluya automáticamente el paquete dentro de la sección de dependencies de su package.son_
+
+Aquí tienes un enlace para descargar Node.js desde su página oficial. Con la última versión LTS será más que suficiente --> [Instalar Node](https://nodejs.org/es/download/)
 
 ## Iniciar el proyecto
 Una vez has instalado todo lo necesario para visualizar este proyecto de consola correctamente puedes, mediante Node.js, ejecutar el archivo _dom.js_ para visualizar el proyecto. (Este archivo contiene todas las partes mencionadas anteriormente en un solo archivo lo que suma rapidez a la ejecución del mismo y permite ejecutarse sin necesidad de añadir líneas de código extra ni tener que mirar que hace el código).
